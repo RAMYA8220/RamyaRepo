@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-24T09:53:40Z" name="Suite" finished-at="2024-06-24T09:53:55Z" duration-ms="15382">
+    <groups>
+      <group name="smokeTest">
+        <method signature="CreateOrgUsingExtentReportTest$CreateOrgTest.createOrgTest()[pri:0, instance:extentReports.CreateOrgUsingExtentReportTest$CreateOrgTest@14fc5f04]" name="createOrgTest" class="extentReports.CreateOrgUsingExtentReportTest$CreateOrgTest"/>
+      </group> <!-- smokeTest -->
+    </groups>
+    <test started-at="2024-06-24T09:53:40Z" name="Test" finished-at="2024-06-24T09:53:55Z" duration-ms="15382">
+      <class name="extentReports.CreateOrgUsingExtentReportTest$CreateOrgTest">
+        <test-method is-config="true" signature="configBS()[pri:0, instance:extentReports.CreateOrgUsingExtentReportTest$CreateOrgTest@14fc5f04]" started-at="2024-06-24T09:53:39Z" name="configBS" finished-at="2024-06-24T09:53:40Z" duration-ms="182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method is-config="true" signature="configBc()[pri:0, instance:extentReports.CreateOrgUsingExtentReportTest$CreateOrgTest@14fc5f04]" started-at="2024-06-24T09:53:40Z" name="configBc" finished-at="2024-06-24T09:53:41Z" duration-ms="1366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBc -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:extentReports.CreateOrgUsingExtentReportTest$CreateOrgTest@14fc5f04]" started-at="2024-06-24T09:53:41Z" name="configBM" finished-at="2024-06-24T09:53:44Z" duration-ms="3414" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="createOrgTest()[pri:0, instance:extentReports.CreateOrgUsingExtentReportTest$CreateOrgTest@14fc5f04]" started-at="2024-06-24T09:53:44Z" name="createOrgTest" finished-at="2024-06-24T09:53:53Z" duration-ms="8798" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrgTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:extentReports.CreateOrgUsingExtentReportTest$CreateOrgTest@14fc5f04]" started-at="2024-06-24T09:53:53Z" name="configAM" finished-at="2024-06-24T09:53:55Z" duration-ms="1522" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAc()[pri:0, instance:extentReports.CreateOrgUsingExtentReportTest$CreateOrgTest@14fc5f04]" started-at="2024-06-24T09:53:55Z" name="configAc" finished-at="2024-06-24T09:53:55Z" duration-ms="265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAc -->
+        <test-method is-config="true" signature="configAS()[pri:0, instance:extentReports.CreateOrgUsingExtentReportTest$CreateOrgTest@14fc5f04]" started-at="2024-06-24T09:53:55Z" name="configAS" finished-at="2024-06-24T09:53:55Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- extentReports.CreateOrgUsingExtentReportTest$CreateOrgTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
